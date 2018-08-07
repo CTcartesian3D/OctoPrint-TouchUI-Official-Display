@@ -1,2 +1,5 @@
-# OctoPrint-TouchUI-Official-Display-
+# OctoPrint-TouchUI-Official-Display
+
 Running OctoPrint on a Raspberry Pi 3 B+ With Official 7" Display using TouchUI Plugin...
+
+Check the Wiki for various settings needed/used to get this setup and running... 
